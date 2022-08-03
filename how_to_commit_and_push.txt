@@ -1,3 +1,10 @@
+＜＜addする＞＞
+$ git add トラッキング状態にしたいファイル名
+$ git add .
+
+＜＜commitする＞＞
+$ git commit -m "コミットメッセージ"
+
 ＜＜pushの1回目＞＞
 $ git remote add origin git@github.com:S18-izawa-shun/php_practice.git
 $ git push -u origin 'master'
